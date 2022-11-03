@@ -1,0 +1,1 @@
+print("Pozdrav iz aplikacije od Dorijana Omakčića,rođenog 199. godine ")
